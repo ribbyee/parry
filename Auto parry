@@ -1,6 +1,6 @@
 local Settingsmodule = game:GetService("Players").Slevian.Backpack["Steel Longsword"].Scripts.Settings
 local x = require(Settingsmodule)
-x.Parry_Time = 0.3
+x.Parry_Time = 0.2
 x.Attack_After_Parry = 0.02
 local cooldowns
 x.Last_Hit = true
