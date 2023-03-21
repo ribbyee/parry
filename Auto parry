@@ -23,7 +23,7 @@ RightClickParry= true
 x.ParriedEvent = false
 x.SparksEmitter= false
 ParriedEvent = false
-x.Animation_Speed = 0.75
+x.Animation_Speed = 0.79
 
 local Parry = true
 local ParryAfterSwing = true
